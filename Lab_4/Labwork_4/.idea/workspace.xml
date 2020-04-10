@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a02463db-b562-422c-bdce-eafb1a6a1bed" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -10,6 +11,13 @@
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Messages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestCases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../TestCases.xlsx" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../TestCases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$Report.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~WRL0005.tmp" beforeDir="false" />
+>>>>>>> 73415abe3ee111c3e60fecd51e625e80e69a6192
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +49,13 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XtGrDH92K7VAv3wWTBuiE9TZPI" />
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 73415abe3ee111c3e60fecd51e625e80e69a6192
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -149,6 +161,7 @@
       <workItem from="1581931481994" duration="44000" />
       <workItem from="1581931597562" duration="617000" />
       <workItem from="1582034659655" duration="1669000" />
+<<<<<<< HEAD
       <workItem from="1582146975769" duration="39000" />
       <workItem from="1584640369956" duration="370000" />
       <workItem from="1584641824991" duration="284000" />
@@ -156,6 +169,8 @@
       <workItem from="1584642744311" duration="31000" />
       <workItem from="1584642857950" duration="21000" />
       <workItem from="1586502904341" duration="4048000" />
+=======
+>>>>>>> 73415abe3ee111c3e60fecd51e625e80e69a6192
     </task>
     <servers />
   </component>
@@ -163,6 +178,7 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="673" y="331" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584640399852">
       <screen x="0" y="0" width="1646" height="886" />
     </state>
@@ -197,6 +213,33 @@
     </state>
     <state x="593" y="145" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1646.886@0.0.1646.886" timestamp="1586524329110" />
     <state x="209" y="109" key="new project wizard" timestamp="1581931523874">
+=======
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581931514142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581931514142" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582036331671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582036331671" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582036331670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582036331670" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582036331670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582036331670" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582036331671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582036331671" />
+    <state x="209" y="109" key="new project wizard" timestamp="1581931523874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581931523874" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581858369203">
+>>>>>>> 73415abe3ee111c3e60fecd51e625e80e69a6192
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581931523874" />

@@ -20,7 +20,7 @@ public class Messages {
 
     public boolean checkUserNumber(double userNumber) {
         boolean check = true;
-        if (userNumber < 2.933 || userNumber > 101.90) {
+        if (userNumber < 2.934 || userNumber > 101.89) {
             printInvalidRangeExceptionText();
             check = false;
         }
